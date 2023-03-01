@@ -20,9 +20,11 @@ body {
 }
 
 .content {
-  min-height: calc(100vh - 100px);
-  width: 725px;
+  min-height: calc(100vh - 140px);
+  width: 760px;
+  max-width: 100%;
   margin: auto;
+  padding: 20px;
 }
 
 .section {
@@ -33,5 +35,4 @@ body {
   justify-content: center;
   align-items: center;
   border: 1px solid black;
->>>>>>> 63f1e00 (Add bottom section)
 }
